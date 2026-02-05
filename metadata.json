@@ -1,0 +1,5 @@
+{
+  "name": "AI Daily News Brief",
+  "description": "A sophisticated daily AI news aggregator powered by Gemini, featuring real-time search from X and global tech platforms with a persistence layer and interactive calendar.",
+  "requestFramePermissions": []
+}
